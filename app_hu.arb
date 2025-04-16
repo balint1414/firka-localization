@@ -10,5 +10,11 @@
     "title3": "Számokkal bizonyítjuk, mennyire rosszul teljesítesz",
     "subtitle3": "Még a szépített adatok is siralmas képet festenek rólad.",
     "title4": "Statisztikák, amelyek igazolják mindenki gyanúját",
-    "subtitle4": "Most már diagramokon is láthatod, amit mindenki sejtett rólad."
+    "subtitle4": "Most már diagramokon is láthatod, amit mindenki sejtett rólad.",
+
+    "@_HOME": {},
+    "home": "Kezdőlap",
+    "grades": "Jegyek",
+    "timetable": "Órarend",
+    "other": "Több"
 }
