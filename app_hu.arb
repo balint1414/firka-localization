@@ -16,5 +16,26 @@
     "home": "Kezdőlap",
     "grades": "Jegyek",
     "timetable": "Órarend",
-    "other": "Több"
+    "other": "Több",
+
+    "@_WEAR": {},
+    "breakTxt": "Szünet",
+    "timeLeft": "Még {mins} perc",
+    "@timeLeft": {
+        "placeholders": {
+            "mins": {
+                "type": "num"
+            }
+        }
+    },
+    "noClasses": "Nincs ma iskola, pihend ki magad!",
+    "noMoreClasses": "Nincs több órád ma",
+    "firstIn": "Első órád: {t}",
+    "@firstIn": {
+        "placeholders": {
+            "t": {
+                "type": "String"
+            }
+        }
+    }
 }
