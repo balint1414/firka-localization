@@ -1,6 +1,7 @@
 {
     "@_LOGIN": {},
     "loginBtn": "Bejelentkezés E-Kréta fiókkal",
+    "privacyLabel": "Adatvédelmi tájékoztató",
 
     "title1": "A romló tendenciádat tízféle képpen láthatod",
     "subtitle1": "Annyi statisztikát láthatsz, hogy a 8 általánosos matek nem lesz elég a kisilabizálására.",
