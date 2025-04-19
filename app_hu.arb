@@ -37,5 +37,13 @@
                 "type": "String"
             }
         }
+    },
+    "wearTitle": "{n}. óra",
+    "@wearTitle": {
+        "placeholders": {
+            "n": {
+                "type": "num"
+            }
+        }
     }
 }
