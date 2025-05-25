@@ -18,6 +18,14 @@
     "timetable": "Órarend",
     "other": "Több",
 
+    "@_HOME_GRADES": {},
+    "subjects": "Tantárgyak",
+    "your_subjects": "Tantárgyaid",
+    "data": "Adatok",
+    "subject_avg": "Tantárgyi átlag",
+    "class_avg": "Osztályátlag",
+    "class_n": "Heti óraszám",
+
     "@_WEAR": {},
     "breakTxt": "Szünet",
     "timeLeft": "Még {mins} perc",
