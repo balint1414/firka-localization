@@ -12,6 +12,11 @@
     "title4": "Statisztikák, amelyek igazolják mindenki gyanúját",
     "subtitle4": "Most már diagramokon is láthatod, amit mindenki sejtett rólad.",
 
+    "@_DATES": {},
+    "yesterday": "Tegnap",
+    "today": "Ma",
+    "tomorrow": "Holnap",
+
     "@_HOME": {},
     "home": "Kezdőlap",
     "grades": "Jegyek",
