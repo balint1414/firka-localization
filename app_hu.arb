@@ -23,6 +23,7 @@
     "timetable": "Órarend",
     "other": "Több",
     "refreshing": "Adatok frissítése...",
+    "api_error": "Kréta API hiba",
 
     "@_HOME_GRADES": {},
     "subjects": "Tantárgyak",
