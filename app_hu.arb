@@ -17,6 +17,58 @@
     "today": "Ma",
     "tomorrow": "Holnap",
 
+    "@_GREETINGS": {},
+    "good_morning": "Jó reggelt, {p}!",
+    "@good_morning": {
+        "placeholders": {
+            "p": {
+                "type": "String"
+            }
+        }
+    },
+    "good_day": "Szép napot, {p}!",
+    "@good_day": {
+        "placeholders": {
+            "p": {
+                "type": "String"
+            }
+        }
+    },
+    "n_left_subtitle": "Tarts ki, már csak {n} óra!",
+    "@n_left_subtitle": {
+        "placeholders": {
+            "n": {
+                "type": "num"
+            }
+        }
+    },
+    "suffering_almost_over_subtitle": "Mindjárt szabad vagy. Figyelj oda a tanárra.",
+    "school_ending": "Izgulsz, {p}?",
+    "@school_ending": {
+        "placeholders": {
+            "p": {
+                "type": "String"
+            }
+        }
+    },
+    "tomorrow_subtitle": "Itt a holnapi napod.",
+    "good_afternoon": "Szép délutánt, {p}!",
+    "@good_afternoon": {
+        "placeholders": {
+            "p": {
+                "type": "String"
+            }
+        }
+    },
+    "good_night": "Szép estét, {p}!",
+    "@good_night": {
+        "placeholders": {
+            "p": {
+                "type": "String"
+            }
+        }
+    },
+
     "@_HOME": {},
     "home": "Kezdőlap",
     "grades": "Jegyek",
