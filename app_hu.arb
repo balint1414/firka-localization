@@ -17,7 +17,17 @@
     "today": "Ma",
     "tomorrow": "Holnap",
 
-    "@_GREETINGS": {},
+    "@_HOME": {},
+    "home": "Kezdőlap",
+    "grades": "Jegyek",
+    "timetable": "Órarend",
+    "other": "Több",
+    "refreshing": "Adatok frissítése...",
+    "api_error": "Kréta API hiba",
+
+    "@_HOME_MAIN": {},
+
+    "@_WELCOME": {},
     "good_morning": "Jó reggelt, {p}!",
     "@good_morning": {
         "placeholders": {
@@ -69,13 +79,14 @@
         }
     },
 
-    "@_HOME": {},
-    "home": "Kezdőlap",
-    "grades": "Jegyek",
-    "timetable": "Órarend",
-    "other": "Több",
-    "refreshing": "Adatok frissítése...",
-    "api_error": "Kréta API hiba",
+    "@_STARTING_SOON": {},
+    "starting_soon": "Hamarosan kezdődik az első órád!",
+    "starting_hour": "óra",
+    "starting_hour_plural": "óra",
+    "starting_min": "perc",
+    "starting_min_plural": "perc",
+    "starting_sec": "másodperc",
+    "starting_sec_plural": "másodperc",
 
     "@_HOME_GRADES": {},
     "subjects": "Tantárgyak",
