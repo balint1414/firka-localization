@@ -96,6 +96,10 @@
     "class_avg": "Osztályátlag",
     "class_n": "Heti óraszám",
 
+    "@_HOME_TIMETABLE": {},
+    "tt_no_classes_l1": "Ezen a napon nincsenek óráid!",
+    "tt_no_classes_l2": "Yippee!",
+
     "@_WEAR": {},
     "breakTxt": "Szünet",
     "timeLeft": "Még {mins} perc",
