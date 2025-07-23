@@ -101,6 +101,7 @@
     "tt_no_classes_l2": "Yippee!",
     "class_dismissed": "Elmaradt óra",
     "class_substitution": "Helyettesítés",
+    "lesson_subject": "Az óra tárgya",
 
     "@_WEAR": {},
     "breakTxt": "Szünet",
