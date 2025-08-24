@@ -107,6 +107,9 @@
     "class_substitution": "Helyettesítés",
     "lesson_subject": "Az óra tárgya",
 
+    "a_week": "A hét",
+    "b_week": "B hét",
+
     "@_WEAR": {},
     "breakTxt": "Szünet",
     "timeLeft": "Még {mins} perc",
