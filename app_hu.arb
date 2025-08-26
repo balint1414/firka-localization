@@ -22,7 +22,6 @@
     "tomorrow": "Holnap",
 
     "@_EXTRAS": {},
-    "reauth_screen": "Jelentkezz be újra a fiókodba",
     "debug_screen": "Fejlesztői menü",
     "settings_screen": "Beállítások",
 
@@ -32,6 +31,7 @@
     "timetable": "Órarend",
     "other": "Több",
     "refreshing": "Adatok frissítése...",
+    "reauth": "Bejelentkezés szükséges",
     "api_error": "Kréta API hiba",
 
     "@_HOME_MAIN": {},
