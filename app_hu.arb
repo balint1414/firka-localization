@@ -21,6 +21,11 @@
     "today": "Ma",
     "tomorrow": "Holnap",
 
+    "@_EXTRAS": {},
+    "reauth_screen": "Jelentkezz be újra a fiókodba",
+    "debug_screen": "Fejlesztői menü",
+    "settings_screen": "Beállítások",
+
     "@_HOME": {},
     "home": "Kezdőlap",
     "grades": "Jegyek",
