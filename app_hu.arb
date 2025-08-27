@@ -35,6 +35,10 @@
     "api_error": "Kréta API hiba",
 
     "@_HOME_MAIN": {},
+    "pairing": "Óra párosítása",
+    "pairing_description": "Szeretnéd ezt az órát párosítani a Firka appal?\nPárosítás láthatod az órarendet, és a legújabb jegyeidet, számonkéréseidet, és a feladataidat.",
+    "cancel": "Mégse",
+    "pair": "Párosítás",
 
     "@_WELCOME": {},
     "good_morning": "Jó reggelt, {p}!",
@@ -115,35 +119,6 @@
     "a_week": "A hét",
     "b_week": "B hét",
 
-    "@_WEAR": {},
-    "breakTxt": "Szünet",
-    "timeLeft": "Még {mins} perc",
-    "@timeLeft": {
-        "placeholders": {
-            "mins": {
-                "type": "num"
-            }
-        }
-    },
-    "noClasses": "Nincs ma iskola, pihend ki magad!",
-    "noMoreClasses": "Nincs több órád ma",
-    "firstIn": "Első órád: {t}",
-    "@firstIn": {
-        "placeholders": {
-            "t": {
-                "type": "String"
-            }
-        }
-    },
-    "wearTitle": "{n}. óra",
-    "@wearTitle": {
-        "placeholders": {
-            "n": {
-                "type": "num"
-            }
-        }
-    },
-
     "@_SETTINGS": {},
     "s_settings": "Beállítások",
     "s_a": "Alkalmazás",
@@ -214,5 +189,42 @@
     "ic_void_icon": "Semmi",
     "ic_xmas1": "Rosszak listája",
     "ic_xmas2": "Ajándék",
-    "ic_xmas3": "reKarácsony"
+    "ic_xmas3": "reKarácsony",
+
+    "@_WEAR": {},
+
+    "@_WEAR_LOGIN": {},
+    "wear_phone_unpaired": "Az órád nincs párosítva a telefonoddal!",
+    "wear_phone_disconnected": "Az órád nincs csatlakoztatva a telefonoddal!",
+    "wear_pairing_request_sent": "Párosítás folyamatban, nyisd meg az appot a telefonodon",
+    "wear_pairing_check_phone": "Folytasd a párosítást a telefonodon",
+    "wear_try_again": "Újra",
+
+    "breakTxt": "Szünet",
+    "timeLeft": "Még {mins} perc",
+    "@timeLeft": {
+        "placeholders": {
+            "mins": {
+                "type": "num"
+            }
+        }
+    },
+    "noClasses": "Nincs ma iskola, pihend ki magad!",
+    "noMoreClasses": "Nincs több órád ma",
+    "firstIn": "Első órád: {t}",
+    "@firstIn": {
+        "placeholders": {
+            "t": {
+                "type": "String"
+            }
+        }
+    },
+    "wearTitle": "{n}. óra",
+    "@wearTitle": {
+        "placeholders": {
+            "n": {
+                "type": "num"
+            }
+        }
+    }
 }
