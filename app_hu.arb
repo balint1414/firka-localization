@@ -39,7 +39,11 @@
     "pairing_description": "Szeretnéd ezt az órát párosítani a Firka appal?\nPárosítás láthatod az órarendet, és a legújabb jegyeidet, számonkéréseidet, és a feladataidat.",
     "cancel": "Mégse",
     "save": "Mentés",
+    "okay": "Rendben",
     "pair": "Párosítás",
+
+    "beta_title": "meow meow :3",
+    "beta_body": "meow meow meow meow meow meow meow meow meow meow meow meow",
 
     "@_WELCOME": {},
     "good_morning": "Jó reggelt, {p}!",
