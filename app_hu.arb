@@ -38,6 +38,7 @@
     "pairing": "Óra párosítása",
     "pairing_description": "Szeretnéd ezt az órát párosítani a Firka appal?\nPárosítás láthatod az órarendet, és a legújabb jegyeidet, számonkéréseidet, és a feladataidat.",
     "cancel": "Mégse",
+    "save": "Mentés",
     "pair": "Párosítás",
 
     "@_WELCOME": {},
