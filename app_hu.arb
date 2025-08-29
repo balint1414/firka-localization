@@ -111,6 +111,7 @@
     "your_subjects": "Tantárgyaid",
     "data": "Adatok",
     "subject_avg": "Tantárgyi átlag",
+    "subject_avg_rounded": "Tantárgyi átlag kerekítés után",
     "class_avg": "Osztályátlag",
     "class_n": "Heti óraszám",
 
