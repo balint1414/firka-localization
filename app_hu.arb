@@ -122,6 +122,12 @@
     "class_substitution": "Helyettesítés",
     "lesson_subject": "Az óra tárgya",
 
+    "@_HOME_TIMETABLE_TOAST": {},
+    "tt_settings_toast": "Órarend beállításai",
+    "tt_settings_toast_lesson_nos": "Óraszámok",
+    "tt_settings_toast_lesson_tests": "Számonkérések & egyéb",
+    "tt_settings_toast_lesson_breaks": "Lyukas órák & szünetek",
+
     "a_week": "A hét",
     "b_week": "B hét",
 
