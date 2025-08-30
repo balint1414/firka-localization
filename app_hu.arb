@@ -131,7 +131,13 @@
     "a_week": "A hét",
     "b_week": "B hét",
 
+    "@_STATS_FOR_NERDS": {},
+    "stats_date": "Dátum",
+    "stats_created_at": "Létrehozva",
+    "stats_last_mod": "Utoljára módosítva",
+
     "@_SETTINGS": {},
+    "s_stats_for_nerds": "Extra információ mutatása",
     "s_settings": "Beállítások",
     "s_a": "Alkalmazás",
     "s_ag": "Általános",
