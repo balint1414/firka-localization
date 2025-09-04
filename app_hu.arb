@@ -221,6 +221,7 @@
     "wear_try_again": "Újra",
 
     "breakTxt": "Szünet",
+    "empty_class": "Lyukasóra",
     "timeLeft": "Még {mins} perc",
     "@timeLeft": {
         "placeholders": {
