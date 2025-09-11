@@ -227,6 +227,11 @@
     "ic_xmas2": "Ajándék",
     "ic_xmas3": "reKarácsony",
 
+    "@_SETTINGS_ACCOUNT": {},
+    "s_your_account": "Fiókod",
+    "s_acc_kreta": "eKRÉTA Fiókok",
+    "s_acc_add": "Új fiók hozzáadása",
+
     "@_WEAR": {},
 
     "@_WEAR_LOGIN": {},
