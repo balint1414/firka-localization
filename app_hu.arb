@@ -118,6 +118,7 @@
     "@_HOME_TIMETABLE": {},
     "tt_no_classes_l1": "Ezen a napon nincsenek óráid!",
     "tt_no_classes_l2": "Yippee!",
+    "tt_added": "Beírva: ",
     "class_dismissed": "Elmaradt óra",
     "class_substitution": "Helyettesítés",
     "lesson_subject": "Az óra tárgya",
