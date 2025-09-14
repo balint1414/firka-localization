@@ -1,14 +1,14 @@
 {
     "@_GLOBAL": {},
     "restart_title": "Alkalmazás újraindítása",
-    "restart_body": "Kattints ide az alkalmazás megnytásához.",
+    "restart_body": "Kattints ide az alkalmazás megnyitásához.",
 
     "@_LOGIN": {},
     "loginBtn": "Bejelentkezés E-Kréta fiókkal",
     "privacyLabel": "Adatvédelmi tájékoztató",
 
     "title1": "Egy pillantásra tudhatsz mindent",
-    "subtitle1": "A főoldal tetjén hasznos információkat láthatsz a napodról.",
+    "subtitle1": "A főoldal tetején hasznos információkat láthatsz a napodról.",
     "title2": "A tantárgyaid kényelmesen elférnek itt",
     "subtitle2": "Láss statisztikákat, közelgő számonkéréseket, és akár a régebbi tanéves jegyeidet is.",
     "title3": "Személyre szabható órarend",
@@ -181,10 +181,10 @@
 
     "s_ci_child_protection": "Gyermekvédelem",
 
-    "ic_ace": "Aszexuáls",
-    "ic_ace_f": "Aszexuáls",
-    "ic_bi": "Biszexuáls",
-    "ic_bi_f": "Biszexuáls",
+    "ic_ace": "Aszexuális",
+    "ic_ace_f": "Aszexuális",
+    "ic_bi": "Biszexuális",
+    "ic_bi_f": "Biszexuális",
     "ic_cactus": "Kaktuszliget",
     "ic_cc": "Kreatív Felhő",
     "ic_enby": "Nembináris",
