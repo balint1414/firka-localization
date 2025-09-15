@@ -1,3 +1,246 @@
 {
-    
+    "@_GLOBAL": {},
+    "restart_title": "Alkalmazás újraindítása",
+    "restart_body": "Kattints ide az alkalmazás megnytásához.",
+    "@_LOGIN": {},
+    "loginBtn": "Login mit E-Kréta",
+    "privacyLabel": "Datenschutzerklärung",
+    "title1": "Egy pillantásra tudhatsz mindent",
+    "subtitle1": "A főoldal tetjén hasznos információkat láthatsz a napodról.",
+    "title2": "A tantárgyaid kényelmesen elférnek itt",
+    "subtitle2": "Láss statisztikákat, közelgő számonkéréseket, és akár a régebbi tanéves jegyeidet is.",
+    "title3": "Személyre szabható órarend",
+    "subtitle3": "Válaszd ki, mit szeretnél látni az órarend oldalon, kapcsold ki vagy be a számonkéréseket, házi feladatokat, szüneteket és lyukas órákat is.",
+    "title4": "Sok extra dolog, amit a Krétában sosem fogsz megtalálni",
+    "subtitle4": "",
+    "@_DATES": {},
+    "yesterday": "Gestern",
+    "today": "Heute",
+    "tomorrow": "Morgen",
+    "@_EXTRAS": {},
+    "debug_screen": "Fejlesztői menü",
+    "settings_screen": "Beállítások",
+    "@_HOME": {},
+    "home": "Startseite",
+    "grades": "Noten",
+    "timetable": "Stundenplan",
+    "other": "Andere",
+    "refreshing": "Daten werden aktualisiert...",
+    "reauth": "Bejelentkezés szükséges",
+    "api_error": "Kréta API Fehler",
+    "@_HOME_MAIN": {},
+    "pairing": "Óra párosítása",
+    "pairing_description": "Szeretnéd ezt az órát párosítani a Firka appal?\nPárosítás láthatod az órarendet, és a legújabb jegyeidet, számonkéréseidet, és a feladataidat.",
+    "cancel": "Mégse",
+    "save": "Mentés",
+    "okay": "Rendben",
+    "pair": "Párosítás",
+    "beta_title": "Firka - Publikus béta",
+    "beta_body": "Az alkalmazás fejlesztés alatt áll; egyes funkciók hibásan működhetnek, nem működnek, vagy még nem készültek el.",
+    "@_WELCOME": {},
+    "good_morning": "Jó reggelt, {p}!",
+    "@good_morning": {
+        "placeholders": {
+            "p": {
+                "type": "String"
+            }
+        }
+    },
+    "good_day": "Szép napot, {p}!",
+    "@good_day": {
+        "placeholders": {
+            "p": {
+                "type": "String"
+            }
+        }
+    },
+    "n_left_subtitle": "Tarts ki, már csak {n} óra!",
+    "@n_left_subtitle": {
+        "placeholders": {
+            "n": {
+                "type": "num"
+            }
+        }
+    },
+    "suffering_almost_over_subtitle": "Mindjárt szabad vagy. Figyelj oda a tanárra.",
+    "school_ending": "Izgulsz, {p}?",
+    "@school_ending": {
+        "placeholders": {
+            "p": {
+                "type": "String"
+            }
+        }
+    },
+    "tomorrow_subtitle": "Itt a holnapi napod.",
+    "good_afternoon": "Szép délutánt, {p}!",
+    "@good_afternoon": {
+        "placeholders": {
+            "p": {
+                "type": "String"
+            }
+        }
+    },
+    "good_night": "Szép estét, {p}!",
+    "@good_night": {
+        "placeholders": {
+            "p": {
+                "type": "String"
+            }
+        }
+    },
+    "@_STARTING_SOON": {},
+    "starting_soon": "Hamarosan kezdődik az első órád!",
+    "starting_hour": "óra",
+    "starting_hour_plural": "óra",
+    "starting_min": "perc",
+    "starting_min_plural": "perc",
+    "starting_sec": "másodperc",
+    "starting_sec_plural": "másodperc",
+    "@_HOME_GRADES": {},
+    "subjects": "Fächer",
+    "your_subjects": "Deine Fächer",
+    "data": "Daten",
+    "subject_avg": "Fachdurchschnitt",
+    "subject_avg_rounded": "Tantárgyi átlag kerekítés után",
+    "class_avg": "Klassendurchschnitt",
+    "class_n": "Wöchentliche Stunden",
+    "@_HOME_TIMETABLE": {},
+    "tt_no_classes_l1": "Ezen a napon nincsenek óráid!",
+    "tt_no_classes_l2": "Yippee!",
+    "class_dismissed": "Elmaradt óra",
+    "class_substitution": "Helyettesítés",
+    "lesson_subject": "Az óra tárgya",
+    "@_HOME_TIMETABLE_TOAST": {},
+    "tt_settings_toast": "Órarend beállításai",
+    "tt_settings_toast_lesson_nos": "Óraszámok",
+    "tt_settings_toast_lesson_tests": "Számonkérések & egyéb",
+    "tt_settings_toast_lesson_breaks": "Szünetek",
+    "a_week": "A hét",
+    "b_week": "B hét",
+    "@_STATS_FOR_NERDS": {},
+    "stats_date": "Dátum",
+    "stats_created_at": "Létrehozva",
+    "stats_last_mod": "Utoljára módosítva",
+    "@_SETTINGS": {},
+    "s_developer": "Fejlesztői beállítások",
+    "s_stats_for_nerds": "Extra információ mutatása",
+    "s_settings": "Beállítások",
+    "s_a": "Alkalmazás",
+    "s_ag": "Általános",
+    "s_ag_bell_delay": "Csengő eltolódása",
+    "s_ag_rounding": "Alapértelmezett kerekítés",
+    "s_customization": "Személyre szabás",
+    "s_ag_r1": "1 → 2",
+    "s_ag_r2": "2 → 3",
+    "s_ag_r3": "3 → 4",
+    "s_ag_r4": "4 → 5",
+    "s_ag_class_avg_on_graph": "Osztályátlag a grafikonon",
+    "s_ag_navbar": "Navigációs sáv",
+    "s_ag_left_handed_mode": "Balkezes mód",
+    "s_ag_language_header": "Nyelv",
+    "s_ag_language_auto": "Automatikus",
+    "s_ag_language_hu": "Magyar",
+    "s_ag_language_en": "Angol",
+    "s_ag_language_de": "Német",
+    "s_c": "Személyre szabás",
+    "s_c_icon_header": "App ikonok",
+    "s_c_replace_icon": "Ikon cseréje",
+    "s_ci_icon_header": "App ikon",
+    "s_ci_warning_header": "[!] Debug módban nem fog működni az ikon megváltoztatása",
+    "s_ci_icon_subtitle": "Válassz egy csodaszép app ikont, ha már unod a zöldet.",
+    "s_ci_icon_g1": "Catboy domain",
+    "s_ci_icon_g2": "Filctoll",
+    "s_ci_icon_g3": "Nosztalgia",
+    "s_ci_icon_g4": "Újragondolt",
+    "s_ci_icon_g5": "Referencia",
+    "s_ci_icon_g6": "Karácsonyi logó verseny 2024",
+    "s_ci_icon_g6_desc": "By @emilia6_6",
+    "s_ci_icon_g7": "Pride",
+    "s_ci_icon_g8": "Pride ",
+    "s_c_theme_header": "Téma",
+    "s_c_theme_auto": "Automatikus",
+    "s_c_theme_light": "Világos",
+    "s_c_theme_dark": "Sötét",
+    "s_ci_child_protection": "Gyermekvédelem",
+    "ic_ace": "Aszexuáls",
+    "ic_ace_f": "Aszexuáls",
+    "ic_bi": "Biszexuáls",
+    "ic_bi_f": "Biszexuáls",
+    "ic_cactus": "Kaktuszliget",
+    "ic_cc": "Kreatív Felhő",
+    "ic_enby": "Nembináris",
+    "ic_enby_f": "Nembináris",
+    "ic_fidesz": "Narancs",
+    "ic_filc": "Filc Napló",
+    "ic_filco": "Filc . O",
+    "ic_galaxy": "Galaxis",
+    "ic_gay": "Meleg",
+    "ic_gay_f": "Meleg",
+    "ic_half_firka_2": "Revolution",
+    "ic_kreta": "eFIRKA",
+    "ic_lesb": "Leszbikus",
+    "ic_lesb_f": "Leszbikus",
+    "ic_lgbtq": "LMGBTQ+",
+    "ic_lgbtq_f": "LMGBTQ+",
+    "ic_lgbtqp": "Progresszió",
+    "ic_lgbtqp_f": "Progresszió",
+    "ic_lidl": "Bevásárlás",
+    "ic_mkkp": "Ingyen jegyek",
+    "ic_nuke": "Nukleáris",
+    "ic_modern": "Modern",
+    "ic_o1g": "O1G",
+    "ic_old": "Domain Dév Dévid",
+    "ic_original": "Az eredeti",
+    "ic_paper": "Papír",
+    "ic_pear": "Körte",
+    "ic_pixel": "Pixel",
+    "ic_pixelized": "Pixelizált",
+    "ic_pride": "Űrszívárvány",
+    "ic_proto": "Prototípus",
+    "ic_refilc": "reFilc",
+    "ic_refulc": "firk’a",
+    "ic_repont": "Ötven forint",
+    "ic_szivacs": "Szivacs",
+    "ic_tisza": "Árad a firka",
+    "ic_trans": "Transz",
+    "ic_trans_f": "Transz",
+    "ic_void_icon": "Semmi",
+    "ic_xmas1": "Rosszak listája",
+    "ic_xmas2": "Ajándék",
+    "ic_xmas3": "reKarácsony",
+    "@_WEAR": {},
+    "@_WEAR_LOGIN": {},
+    "wear_phone_unpaired": "Az órád nincs párosítva a telefonoddal!",
+    "wear_phone_disconnected": "Az órád nincs csatlakoztatva a telefonoddal!",
+    "wear_pairing_request_sent": "Párosítás folyamatban, nyisd meg az appot a telefonodon",
+    "wear_pairing_check_phone": "Folytasd a párosítást a telefonodon",
+    "wear_try_again": "Újra",
+    "breakTxt": "Pause",
+    "empty_class": "Lyukasóra",
+    "timeLeft": "{mins} Minuten übrig",
+    "@timeLeft": {
+        "placeholders": {
+            "mins": {
+                "type": "num"
+            }
+        }
+    },
+    "noClasses": "Heute ist keine Schule, ruh dich aus!",
+    "noMoreClasses": "Du hast heute keinen Unterricht mehr",
+    "firstIn": "Deine erste Stunde: {t}",
+    "@firstIn": {
+        "placeholders": {
+            "t": {
+                "type": "String"
+            }
+        }
+    },
+    "wearTitle": "{n}. Stunde",
+    "@wearTitle": {
+        "placeholders": {
+            "n": {
+                "type": "num"
+            }
+        }
+    }
 }

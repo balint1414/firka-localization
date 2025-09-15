@@ -1,3 +1,246 @@
 {
-    
+    "@_GLOBAL": {},
+    "restart_title": "Restart application",
+    "restart_body": "Click here to open the app again.",
+    "@_LOGIN": {},
+    "loginBtn": "Login with E-Kréta",
+    "privacyLabel": "Privacy policy",
+    "title1": "Know everything at a glance",
+    "subtitle1": "On the top of the home screen you can see useful info about your day.",
+    "title2": "Your classes fit here",
+    "subtitle2": "See statistics, upcoming tests, and even your grades from previous school years.",
+    "title3": "Customizable timetable",
+    "subtitle3": "Select what you want to see on the timetable page, turn on or off test, assignments, breaks, and free periods.",
+    "title4": "Many extras you will never find in Kréta",
+    "subtitle4": "",
+    "@_DATES": {},
+    "yesterday": "Yesterday",
+    "today": "Today",
+    "tomorrow": "Tomorrow",
+    "@_EXTRAS": {},
+    "debug_screen": "Developer options",
+    "settings_screen": "Settings",
+    "@_HOME": {},
+    "home": "Home",
+    "grades": "Grades",
+    "timetable": "Timetable",
+    "other": "Other",
+    "refreshing": "Refreshing...",
+    "reauth": "Reauthentication required",
+    "api_error": "Kréta API error",
+    "@_HOME_MAIN": {},
+    "pairing": "Pair your watch",
+    "pairing_description": "Would you like to pair this watch with the Firka app?\nAfter pairing, you will be able to see your timetable, new grades, tests and tasks.",
+    "cancel": "Cancel",
+    "save": "Save",
+    "okay": "Okay",
+    "pair": "Pair",
+    "beta_title": "Firka - Public Beta",
+    "beta_body": "The application is still in development; some features may be unfinished, not work correctly, or be buggy.",
+    "@_WELCOME": {},
+    "good_morning": "Good morning, {p}!",
+    "@good_morning": {
+        "placeholders": {
+            "p": {
+                "type": "String"
+            }
+        }
+    },
+    "good_day": "Good day, {p}!",
+    "@good_day": {
+        "placeholders": {
+            "p": {
+                "type": "String"
+            }
+        }
+    },
+    "n_left_subtitle": "Hang in there, there's only {n} lessons left!",
+    "@n_left_subtitle": {
+        "placeholders": {
+            "n": {
+                "type": "num"
+            }
+        }
+    },
+    "suffering_almost_over_subtitle": "You're almost free. Keep pay attention to your teacher.",
+    "school_ending": "Are you anxious, {p}?",
+    "@school_ending": {
+        "placeholders": {
+            "p": {
+                "type": "String"
+            }
+        }
+    },
+    "tomorrow_subtitle": "Your next day",
+    "good_afternoon": "Good afternoon, {p}!",
+    "@good_afternoon": {
+        "placeholders": {
+            "p": {
+                "type": "String"
+            }
+        }
+    },
+    "good_night": "Good evening, {p}!",
+    "@good_night": {
+        "placeholders": {
+            "p": {
+                "type": "String"
+            }
+        }
+    },
+    "@_STARTING_SOON": {},
+    "starting_soon": "Your first lesson will start soon!",
+    "starting_hour": "hour",
+    "starting_hour_plural": "hours",
+    "starting_min": "min",
+    "starting_min_plural": "mins",
+    "starting_sec": "sec",
+    "starting_sec_plural": "secs",
+    "@_HOME_GRADES": {},
+    "subjects": "Subjects",
+    "your_subjects": "Subjects",
+    "data": "Info",
+    "subject_avg": "Subject average",
+    "subject_avg_rounded": "Subject average after rounding",
+    "class_avg": "Class average",
+    "class_n": "Weekly lesson number",
+    "@_HOME_TIMETABLE": {},
+    "tt_no_classes_l1": "You don't have any lessons this week!",
+    "tt_no_classes_l2": "Yippee!",
+    "class_dismissed": "Dismissed lesson",
+    "class_substitution": "Substitution",
+    "lesson_subject": "Lesson subject",
+    "@_HOME_TIMETABLE_TOAST": {},
+    "tt_settings_toast": "Timetable settings",
+    "tt_settings_toast_lesson_nos": "Number of lessons",
+    "tt_settings_toast_lesson_tests": "Tests & others",
+    "tt_settings_toast_lesson_breaks": "Breaks",
+    "a_week": "A week",
+    "b_week": "B week",
+    "@_STATS_FOR_NERDS": {},
+    "stats_date": "Date",
+    "stats_created_at": "Created at",
+    "stats_last_mod": "Last modified",
+    "@_SETTINGS": {},
+    "s_developer": "Developer settings",
+    "s_stats_for_nerds": "Stats for nerds",
+    "s_settings": "Settings",
+    "s_a": "Application",
+    "s_ag": "General",
+    "s_ag_bell_delay": "Bell delay",
+    "s_ag_rounding": "Default rounding",
+    "s_customization": "Customization",
+    "s_ag_r1": "1 → 2",
+    "s_ag_r2": "2 → 3",
+    "s_ag_r3": "3 → 4",
+    "s_ag_r4": "4 → 5",
+    "s_ag_class_avg_on_graph": "Class's average on the graph",
+    "s_ag_navbar": "Navbar",
+    "s_ag_left_handed_mode": "Left-handed mode",
+    "s_ag_language_header": "Language",
+    "s_ag_language_auto": "Automatic",
+    "s_ag_language_hu": "Hungarian",
+    "s_ag_language_en": "English",
+    "s_ag_language_de": "German",
+    "s_c": "Customization",
+    "s_c_icon_header": "App icons",
+    "s_c_replace_icon": "Replace icon",
+    "s_ci_icon_header": "App icon",
+    "s_ci_warning_header": "[!] Changing the app's icon in debug mode won't work",
+    "s_ci_icon_subtitle": "Choose a pretty app icon if you're already tired of the green one.",
+    "s_ci_icon_g1": "Catboy domain",
+    "s_ci_icon_g2": "Felt pen",
+    "s_ci_icon_g3": "Nostalgia",
+    "s_ci_icon_g4": "Reimagined",
+    "s_ci_icon_g5": "Reference",
+    "s_ci_icon_g6": "Christmas logo competition 2024",
+    "s_ci_icon_g6_desc": "By @emilia6_6",
+    "s_ci_icon_g7": "Pride",
+    "s_ci_icon_g8": "Pride ",
+    "s_c_theme_header": "Theme",
+    "s_c_theme_auto": "Auto",
+    "s_c_theme_light": "Light",
+    "s_c_theme_dark": "Dark",
+    "s_ci_child_protection": "Child protection",
+    "ic_ace": "Asexual",
+    "ic_ace_f": "Asexual",
+    "ic_bi": "Bisexual",
+    "ic_bi_f": "Bisexual",
+    "ic_cactus": "Cactus grove",
+    "ic_cc": "Creative Cloud",
+    "ic_enby": "Non-binary",
+    "ic_enby_f": "Non-binary",
+    "ic_fidesz": "Fidesz",
+    "ic_filc": "Firka",
+    "ic_filco": "Filc . O",
+    "ic_galaxy": "Galaxy",
+    "ic_gay": "Gay",
+    "ic_gay_f": "Gay",
+    "ic_half_firka_2": "Revolution",
+    "ic_kreta": "eFirka",
+    "ic_lesb": "Lesbian",
+    "ic_lesb_f": "Lesbian",
+    "ic_lgbtq": "LGBTQ+",
+    "ic_lgbtq_f": "LGBTQ+",
+    "ic_lgbtqp": "Progression",
+    "ic_lgbtqp_f": "Progression",
+    "ic_lidl": "Shopping",
+    "ic_mkkp": "MKKP",
+    "ic_nuke": "Nuclear",
+    "ic_modern": "Modern",
+    "ic_o1g": "Orbán is a cunt",
+    "ic_old": "Domain Dave",
+    "ic_original": "Original",
+    "ic_paper": "Paper",
+    "ic_pear": "Pear",
+    "ic_pixel": "Pixel",
+    "ic_pixelized": "Pixelified",
+    "ic_pride": "Space rainbow",
+    "ic_proto": "Prototype",
+    "ic_refilc": "reFilc",
+    "ic_refulc": "firk'a",
+    "ic_repont": "Repont",
+    "ic_szivacs": "sponge",
+    "ic_tisza": "árad a firka",
+    "ic_trans": "Trans",
+    "ic_trans_f": "Trans",
+    "ic_void_icon": "Nothing",
+    "ic_xmas1": "naughty list",
+    "ic_xmas2": "gift",
+    "ic_xmas3": "FirCristmas",
+    "@_WEAR": {},
+    "@_WEAR_LOGIN": {},
+    "wear_phone_unpaired": "Your watch isn't paired with your phone!",
+    "wear_phone_disconnected": "Your watch isn't connected to your phone!",
+    "wear_pairing_request_sent": "Open the app on your phone",
+    "wear_pairing_check_phone": "Check your phone",
+    "wear_try_again": "Try again",
+    "breakTxt": "Break",
+    "empty_class": "empty class",
+    "timeLeft": "{mins, plural, =1{1 min left} other{{mins} mins left}}",
+    "@timeLeft": {
+        "placeholders": {
+            "mins": {
+                "type": "num"
+            }
+        }
+    },
+    "noClasses": "School's out today, take it easy!",
+    "noMoreClasses": "No more classes for you today",
+    "firstIn": "First class in: {t}",
+    "@firstIn": {
+        "placeholders": {
+            "t": {
+                "type": "String"
+            }
+        }
+    },
+    "wearTitle": "{n}. class",
+    "@wearTitle": {
+        "placeholders": {
+            "n": {
+                "type": "num"
+            }
+        }
+    }
 }
