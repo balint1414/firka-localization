@@ -114,6 +114,8 @@
     "subject_avg_rounded": "Tantárgyi átlag kerekítés után",
     "class_avg": "Osztályátlag",
     "class_n": "Heti óraszám",
+    "grade_teacherName": "Tanár neve: ",
+    "grade_strValue":"Szöveges értékelés: ",
 
     "@_HOME_TIMETABLE": {},
     "tt_no_classes_l1": "Ezen a napon nincsenek óráid!",
