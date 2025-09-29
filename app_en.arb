@@ -216,7 +216,7 @@
     "wear_pairing_check_phone": "Check your phone",
     "wear_try_again": "Try again",
     "breakTxt": "Break",
-    "empty_class": "empty class",
+    "empty_class": "Empty class",
     "timeLeft": "{mins, plural, =1{1 min left} other{{mins} mins left}}",
     "@timeLeft": {
         "placeholders": {
