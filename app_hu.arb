@@ -97,6 +97,8 @@
         }
     },
 
+    "homework": "Házifeladat",
+
     "@_STARTING_SOON": {},
     "starting_soon": "Hamarosan kezdődik az első órád!",
     "starting_hour": "óra",
