@@ -126,6 +126,7 @@
     "class_dismissed": "Elmaradt óra",
     "class_substitution": "Helyettesítés",
     "lesson_subject": "Az óra tárgya",
+    "view_subject_btn": "Tantárgy megtekintése",
 
     "@_HOME_TIMETABLE_TOAST": {},
     "tt_settings_toast": "Órarend beállításai",
