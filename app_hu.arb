@@ -129,7 +129,6 @@
     "lesson_subject": "Az óra tárgya",
     "view_subject_btn": "Tantárgy megtekintése",
     "view_lesson_btn": "Óra megtekintése",
-    "view_lesson": "Óra megtekintése",
     "date":"Időpont",
 
     "@_HOME_TIMETABLE_TOAST": {},
