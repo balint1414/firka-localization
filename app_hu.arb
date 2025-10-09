@@ -246,6 +246,11 @@
     "s_acc_add": "Új fiók hozzáadása",
     "s_acc_logout": "Kijelentkezés",
 
+    "@_SETTINGS_SCREEN": {},
+    "close": "Bezárás",
+    "licensesLabel": "Licencek",
+    "licenseDescription": "Az alkalmazás által használt külső könyvtárak licencei",
+
     "@_WEAR": {},
 
     "@_WEAR_LOGIN": {},
