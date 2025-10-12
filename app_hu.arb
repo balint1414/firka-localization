@@ -97,7 +97,10 @@
         }
     },
 
-    "homework": "Házifeladat",
+    "@_HOMEWORK",
+    "homework": "Házi feladat",
+    "mark_as_done":"Megjelölés készként",
+    "mark_as_not_done":"Megjelölés nem készként",
 
     "@_STARTING_SOON": {},
     "starting_soon": "Hamarosan kezdődik az első órád!",
