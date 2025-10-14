@@ -130,6 +130,7 @@
     "grade_teacherName": "Tanár neve: ",
     "grade_strValue":"Szöveges értékelés: ",
     "no_grades":"Ebből a tantárgyból még nincsen jegyed.",
+    "unknown_teacher": "Ismeretlen tanár",
 
     "@_HOME_TIMETABLE": {},
     "tt_no_classes_l1": "Ezen a napon nincsenek óráid!",
