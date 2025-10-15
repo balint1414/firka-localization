@@ -104,6 +104,16 @@
             }
         }
     },
+    "tests_tomorrow": "{tests} dolgozatod lesz",
+    "@tests_tomorrow": {
+        "placeholders": {
+            "tests": {
+                "type": "String"
+            }
+        }
+    },
+    "no_tests_tomorrow": "Holnap nincs dolgozatod",
+    "get_ready": "Pihend ki magad, és készülj fel",
 
     "@_HOMEWORK": {},
     "homework": "Házi feladat",
